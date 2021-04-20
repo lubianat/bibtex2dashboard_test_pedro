@@ -1,4 +1,4 @@
-sys
+os
 wbib 
 requests
 pybtex
