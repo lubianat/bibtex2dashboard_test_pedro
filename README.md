@@ -2,6 +2,8 @@
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://lubianat.github.io/bibtex2dashboard/)
 
+Use this system to get analytics from your bibtex files! 
+Note: Wikidata is currently biased towards biomedical sciences, math and physics topics might not show up. 
 
 ## Dashboard description
 
