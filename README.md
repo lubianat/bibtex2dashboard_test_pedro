@@ -1,6 +1,6 @@
 # Wikidata powered, bibtex-based dashboard.  
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://lubianat.github.io/bibtex2dashboard/)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://lubianat.github.io/bibtex2dashboard_test_pedro/)
 
 Use this system to get analytics from your bibtex files! 
 Note: Wikidata is currently biased towards biomedical sciences, math and physics topics might not show up. 
@@ -30,7 +30,7 @@ Except when noted otherwise, the entirety of this repository is licensed under a
 
 Parts of the documentation was adapted from CC-BY 4.0 text at https://github.com/manubot/rootstock, so please attribute by linking to it when reusing SETUP.md and README.md. 
 
-Please open [an issue](https://github.com/lubianat/bibtex2dashboard/issues) for any question related to licensing.
+Please open [an issue](https://github.com/lubianat/bibtex2dashboard_test_pedro/issues) for any question related to licensing.
 
 ## Acknowledgements
 Repository inspired by [Manubot's rootstock](https://github.com/manubot/rootstock/edit/main/SETUP.md). 

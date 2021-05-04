@@ -1,4 +1,18 @@
 Titles that were not found on Wikidata: 
-Reconstructing lineage hierarchies of the distal lung epithelium using single-cell RNA-seq. - PubMed - NCBI
-The Sp1-Related Transcription Factors sp5 and sp5-like Act Downstream of Wnt/$\beta$-Catenin Signaling in Mesoderm and Neuroectoderm Patterning
-UMAP does not preserve global structure any better than t-SNE when using the same initialization
+A subgroup of plant aquaporins facilitate the bi-directional diffusion of As (OH) 3 and Sb (OH) 3 across membranes
+M\'emoire sur la d\'ecomposition de l’eau et des corps, qu’elle tient en dissolution
+Crystal structure of human aquaporin 4 at 1.8 \AA and its mechanism of conductance
+Aquaporin localization--how valid are the TIP and PIP labels?
+Evolution of grasses and grassland ecosystems
+FigTree v1. 4
+The major integral proteins of spinach leaf plasma membranes are putative aquaporins and are phosphorylated in response to Ca2+ and apoplastic water potential.
+Function of a separate NH3-pore in Aquaporin TIP2; 2 from wheat
+Tonoplast intrinsic proteins AtTIP2; 1 and AtTIP2; 3 facilitate NH3 transport into the vacuole
+AtTIP1; 3 and AtTIP5; 1, the only highly expressed Arabidopsis pollen-specific aquaporins, transport water and urea
+Molecular dynamics simulation on the effect of pore hydrophobicity on water transport through aquaporin-mimic nanopores
+Heteromerization of plant aquaporins
+Regulated Cationic Channel Function in XenopusOocytes Expressing Drosophila Big Brain
+Targeting aquaporins for conferring salinity tolerance in crops
+The role of fire in Miocene to Pliocene C 4 grassland and ecosystem evolution
+Photosynthesis in early land plants: adapting to the terrestrial environment
+The plant vascular system: evolution, development and functions f
